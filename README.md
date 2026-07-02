@@ -713,3 +713,4 @@ Expected HA behavior:
   KRaft quorum lost
   safe writes unavailable
 ```
+<img width="7174" height="8777" alt="image" src="https://github.com/user-attachments/assets/ab8f6fb2-d4ec-4fed-87f7-6d539642639c" />
